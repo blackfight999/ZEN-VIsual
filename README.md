@@ -4,27 +4,27 @@
 
 # ZEN Visualization
 
-ZEN Visualization is an elegant, interactive narrative site that reimagines a research paper through immersive visuals and motion.
+ZEN Visualization คือเว็บไซต์เล่าเรื่องเชิงอินเทอร์แอคทีฟที่ถ่ายทอดงานวิจัยใหม่ผ่านภาพและแอนิเมชันที่ดื่มด่ำ
 
 ## Tech Stack
 
 - React 19 + TypeScript
 - Vite
-- Three.js via @react-three/fiber and @react-three/drei
+- Three.js ผ่าน @react-three/fiber และ @react-three/drei
 - Framer Motion
 
 ## Run Locally
 
-**Prerequisites:** Node.js
+**ข้อกำหนดเบื้องต้น:** Node.js
 
-1. Install dependencies:
+1. ติดตั้ง dependencies:
    `npm install`
-2. Start the dev server:
+2. เริ่มต้น dev server:
    `npm run dev`
 
 ## Build & Preview
 
-- Build for production:
+- สร้างสำหรับใช้งานจริง:
   `npm run build`
-- Preview the production build:
+- พรีวิว build สำหรับใช้งานจริง:
   `npm run preview`
